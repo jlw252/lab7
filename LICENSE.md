@@ -1,4 +1,4 @@
-The University of Pittsburgh License (PITT)
+Jenny and Jeffrey License
 
 Copyright (c) 2023 
 
