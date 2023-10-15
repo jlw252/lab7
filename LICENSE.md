@@ -1,4 +1,4 @@
-# Jenny and Jeffrey License
+# The MIT License
 
 Copyright (c) 2023 
 
